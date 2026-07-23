@@ -97,7 +97,7 @@ def load_wallets():
     
     # قائمة بأزواج متغيرات البيئة لكل محفظة
     wallet_configs = [
-        ("السمبتيك 1", "PRIVATE_KEY", "WALLET_ADDRESS"),
+        ("حاتم 1", "PRIVATE_KEY", "WALLET_ADDRESS"),
         ("المحفظة 2", "WALLET_2_PRIVATE_KEY", "WALLET_2_ADDRESS"),
         ("المحفظة 3", "WALLET_3_PRIVATE_KEY", "WALLET_3_ADDRESS"),
         ("المحفظة 4", "WALLET_4_PRIVATE_KEY", "WALLET_4_ADDRESS"),
